@@ -1,0 +1,13 @@
+streamlit
+sentence-transformers
+transformers
+chromadb
+faiss-cpu
+weaviate-client
+qdrant-client
+lancedb
+numpy
+plotly
+python-dotenv
+pytest
+pandas
